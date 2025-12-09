@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <!-- Canal único para esta película -->
+  <channel id="transformers.channel">
+    <display-name>Cine Acción HD</display-name>
+    <icon src="https://image.tmdb.org/t/p/w300/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg"/>
+  </channel>
+
+  <!-- Programa principal -->
+  <programme start="20241209210000 +0000" stop="20241209225000 +0000" channel="transformers.channel">
+    <title>Transformers: El último caballero</title>
+    <sub-title>5ta película de la saga</sub-title>
+    
+    <desc>Los humanos están en guerra con los Transformers, y Optimus Prime se ha ido. La clave para salvar nuestro futuro está enterrada en los secretos del pasado, en la historia oculta de los Transformers en la Tierra. Un nuevo compañero humano, Izabella, y Cade Yeager, junto con los Autobots, Bumblebee, Hound, Drift, Crosshairs, Wheeljack, Brains y un nuevo Autobot llamado Sqweeks, se convierten en los últimos esperanzas de la humanidad.</desc>
+    
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Isabela Moner</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>John Turturro</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Megan Fox</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>John Goodman</actor>
+      <actor>Peter Cullen</actor>
+      <actor>Frank Welker</actor>
+    </credits>
+    
+    <date>2017</date>
+    
+    <category>Acción</category>
+    <category>Ciencia Ficción</category>
+    <category>Aventura</category>
+    <category>Blockbuster</category>
+    
+    <icon src="https://image.tmdb.org/t/p/w500/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg"/>
+    
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+    
+    <star-rating>
+      <value>5.2/10</value>
+    </star-rating>
+    
+    <length units="minutes">154</length>
+    
+    <video>
+      <quality>4K</quality>
+      <aspect>2.39:1</aspect>
+    </video>
+    
+    <audio>
+      <stereo>dolby_digital</stereo>
+    </audio>
+    
+    <language>es</language>
+    <language>en</language>
+    
+    <country>Estados Unidos</country>
+    
+    <premiere>Estreno mundial: 21 de junio de 2017</premiere>
+    
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+  </programme>
+
+</tv>
