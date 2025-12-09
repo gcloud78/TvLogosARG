@@ -1,0 +1,18 @@
+{
+  "channel_id": "transformers5",
+  "channel_name": "Cine Transformers",
+  "program_title": "Transformers: El último caballero",
+  "program_description": "Película de acción y ciencia ficción de 2017 dirigida por Michael Bay con Mark Wahlberg y Anthony Hopkins.",
+  "year": 2017,
+  "duration_minutes": 154,
+  "genres": ["Acción", "Ciencia Ficción"],
+  "director": "Michael Bay",
+  "main_actors": ["Mark Wahlberg", "Anthony Hopkins", "Isabela Moner"],
+  "rating": 5.2,
+  "video_url": "https://archive.org/download/spider-man-sin-camino-a-casa_202201/TRANSFORMERS%205%20EL%20ULTIMO%20CABALLERO.mp4",
+  "poster_url": "https://image.tmdb.org/t/p/w300/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+  "schedule": {
+    "start": "2024-12-09T21:00:00Z",
+    "end": "2024-12-09T23:34:00Z"
+  }
+}
